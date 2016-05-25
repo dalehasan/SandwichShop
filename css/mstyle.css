@@ -1,0 +1,60 @@
+
+
+body{
+background-color:#9ce7e7;
+}
+
+
+#head{
+opacity:1;
+width:auto;
+text-align:center;
+}
+
+#head h3{
+font-size:20px;
+}
+
+#footnote{
+text-align:center;
+}
+#footnote a, a:hover, a:link, a:visited, a:active{
+text-decoration:none;
+color:white;
+}
+
+
+#form{
+padding:10px 10px;
+width:auto;
+}
+
+#formleft{
+width:auto;
+height:auto;
+border:0px solid red;
+}
+
+#content{
+}
+
+#bgimg{
+width:70%;
+height:70%;
+margin-left:15%;
+
+}
+
+
+#textarea1{
+width:250px;
+height:120px;
+}
+
+#1{
+border:1px solid blue;
+}
+
+#foot{
+
+}
